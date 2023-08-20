@@ -192,11 +192,11 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:intellectance022@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: Null
 isNewTab: true
 
 -- end: ftd.row
